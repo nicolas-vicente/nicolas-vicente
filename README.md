@@ -3,7 +3,7 @@ My name is Nicolas (he/him/his). I'm a cybersecurity student residing in Calforn
 
 **Join the Discord Server** [Nic's Lounge][discord]
 
-*Fun Fact: I have a YouTube Channel [NiconLife](https://www.youtube.com/channel/UCnlRQdq3jUy5nP0gc7zBErw) where I share my journey*
+*Fun Fact: I have a YouTube Channel [NiconLife][youtube] where I share my journey*
 
 <br>
 
@@ -27,8 +27,7 @@ My name is Nicolas (he/him/his). I'm a cybersecurity student residing in Calforn
 
 <br>
 
-[<img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505">][linkedin]
-[<img src="https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=3&origin=search&related_id=174883">][youtube]
+[LinkedIn][linkedin] | [YouTube][youtube] | 
 
 <!--
 **nicolas-101/nicolas-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears o your GitHub profile.
