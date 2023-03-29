@@ -1,4 +1,7 @@
-###  ***Hi peeps👋***   
+<div id="header" align="center">
+    <img src="https://giphy.com/embed/YPJ5gi3MZzSjhtQTIk" width="100"/>
+</div> 
+
 My name is Nicolas (he/him/his). I'm a cybersecurity student residing in Calfornia, USA:technologist:. I'm passionate about creating projects that I think are fun and educational at the same time. 
 
 **Join the Discord Server** [Nic's Lounge][discord]
@@ -8,7 +11,7 @@ My name is Nicolas (he/him/his). I'm a cybersecurity student residing in Calforn
 <br>
 
 ---
-#### **~ Projects ~**
+<h4><strong>~ Projects ~</strong></h4>
 
 <br>
 
@@ -23,11 +26,16 @@ My name is Nicolas (he/him/his). I'm a cybersecurity student residing in Calforn
 
 ---
 
-#### **~ Check out my socials ~**
+<h4><strong>~ Check out my socials ~</strong></h4>
 
 <br>
 
-[LinkedIn][linkedin] | [YouTube][youtube] | 
+| [LinkedIn][linkedin] | [YouTube][youtube] | 
+
+
+[youtube]: https://www.youtube.com/channel/UCnlRQdq3jUy5nP0gc7zBErw
+[linkedin]: https://www.linkedin.com/in/nicolas-vicente-b5658b227/
+[discord]: https://discord.gg/nSzMSuVD
 
 <!--
 **nicolas-101/nicolas-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears o your GitHub profile.
@@ -43,6 +51,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[youtube]: https://www.youtube.com/channel/UCnlRQdq3jUy5nP0gc7zBErw
-[linkedin]: https://www.linkedin.com/in/nicolas-vicente-b5658b227/
-[discord]: https://discord.gg/nSzMSuVD
