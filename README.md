@@ -1,5 +1,7 @@
 
-![giphy](https://user-images.githubusercontent.com/127268237/228439780-9226b37f-d079-4048-a25e-1c4297f26ea9.gif)
+<div id="header" align="center">
+  <img src="https://github.com/nicolas-101/nicolas-101/blob/main/helloworld.gif" width="500" height="320"/>
+</div>
 
 My name is Nicolas (he/him/his). I'm a cybersecurity student residing in Calfornia, USA:technologist:. I'm passionate about creating projects that I think are fun and educational at the same time. 
 
