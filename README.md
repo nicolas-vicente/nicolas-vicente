@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/127268237/228439244-4ba46945-a24f-41e2-af11-7079b5fd24c7.png)
+![image](https://user-images.githubusercontent.com/127268237/228439244-4ba46945-a24f-41e2-af11-7079b5fd24c7.gif)
 
 
 My name is Nicolas (he/him/his). I'm a cybersecurity student residing in Calfornia, USA:technologist:. I'm passionate about creating projects that I think are fun and educational at the same time. 
