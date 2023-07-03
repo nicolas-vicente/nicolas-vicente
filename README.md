@@ -7,6 +7,7 @@
 <br>
 
 ---
+<!--
 <h4><strong>~ Projects ~</strong></h4>
 
 <br>
@@ -18,7 +19,7 @@
 <h4><strong>~ Check out my socials ~</strong></h4>
 
 <br>
-
+-->
 
 [linkedin]: https://www.linkedin.com/in/nicolas-vicente-b5658b227/
 
