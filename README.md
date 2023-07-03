@@ -12,9 +12,6 @@ I'm a cybersecurity student documenting my projects and insights along my journe
 
 <br>
 
-:writing_hand: <ins>Current:</ins> 
-<ul><li style="list-style-type: square"> Password Generator</li><ul><li>Languages used: Python</li></ul></ul>
-
 <br>
 
 ---
