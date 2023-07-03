@@ -3,7 +3,6 @@
   <img src="https://github.com/nicolas-101/nicolas-101/blob/main/helloworld.gif" width="500" height="320"/>
 </div>
 
-I'm a cybersecurity student documenting my projects and insights along my journey :technologist:. I'm passionate about creating projects that I think are fun and educational at the same time. 
 
 <br>
 
