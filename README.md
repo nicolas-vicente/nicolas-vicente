@@ -1,39 +1,22 @@
+# Hey, my name is Nicolas Vicente :)
+I am about to start my senior year at California State University, San Bernardino in Fall 2025. 
+I am pursuing a bachelors in Information Systems and Technology with a Cybersecurity concentration. 
 
-<div id="header" align="center">
-  <img src="https://github.com/nicolas-101/nicolas-101/blob/main/helloworld.gif" width="500" height="320"/>
-</div>
+In addtion to obtaining a formal education, I have also:
+- Competed in the National Cyber League competitions (2021-2023)
+- Competed in the Department of Energy's Cyberforce competition (November 2024)
 
+Some of the platforms I have used to supplement my knowledge include:
+- TryHackMe
+- KC7Cyber
 
-<br>
+I have recently built a website to host my blog posts and résumé if you would like to check it out [here](https://nicolas-vicente.github.io/).
+This website shows more of my background and gives you a little more insight into me outside of cybersecurity. 
 
----
-<!--
-<h4><strong>~ Projects ~</strong></h4>
+## I am using GitHub to host my projects
+Feel free to check out my repositories and see what I have been up to.
+At the time of this writing, I am working on a [ticketing system](https://github.com/nicolas-vicente/ticketing-system) that I will be using in my self-hosted environment.
 
-<br>
-
-<br>
-
----
-
-<h4><strong>~ Check out my socials ~</strong></h4>
-
-<br>
--->
-
-[linkedin]: https://www.linkedin.com/in/nicolas-vicente-b5658b227/
-
-<!--
-**nicolas-101/nicolas-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears o your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me :)
+If you would like to connect with me on LinkedIn here is a [link](https://www.linkedin.com/in/nicolas-v-b5658b227/) to my profile. 
+I am open to collaborating and making network connections, but no pressure. 
