@@ -15,7 +15,6 @@ This website shows more of my background and gives you a little more insight int
 
 ## I am using GitHub to host my projects
 Feel free to check out my repositories and see what I have been up to.
-At the time of this writing, I am working on a [ticketing system](https://github.com/nicolas-vicente/ticketing-system) that I will be using in my self-hosted environment.
 
 ## Connect with me :)
 If you would like to connect with me on LinkedIn here is a [link](https://www.linkedin.com/in/nicolas-v-b5658b227/) to my profile. 
